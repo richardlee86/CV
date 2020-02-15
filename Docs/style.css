@@ -5,11 +5,17 @@ body {
 hr {
   border-top-style: dashed;
   border-color: gray;
-  border-width: 5px;
+  border-width: 3px;
 }
 h1 {
   color: darkblue;
 }
 h3 {
   color: darkblue;
+}
+img.resize {
+  max-width: 100px;
+  max-height: 120px;
+  height: auto;
+  width: auto;
 }
